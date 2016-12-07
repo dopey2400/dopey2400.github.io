@@ -1,0 +1,11 @@
+/*Global styling rule*/
+* {
+  font-family: Georgia;
+}
+
+/*Heading 1 style rule*/
+h1 {
+  color: Purple;
+  justify: Center;
+}
+
