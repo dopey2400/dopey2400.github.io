@@ -1,11 +1,20 @@
 /*Global styling rule*/
 * {
+  background-color: LightGrey;
   font-family: Georgia;
+  text-align: center;
 }
 
 /*Heading 1 style rule*/
 h1 {
-  color: Purple;
-  justify: Center;
+  
 }
 
+h4{
+  color: Blue;
+}
+
+p{
+  font-family: Arial;
+  font-size: 14px;	
+}
